@@ -11,6 +11,6 @@ Foi meu segundo projeto que veio para resolver problemas
 reais do meu dia a dia.
 
 Ficou bem melhor de usar que a primeira versão, mas ainda
-está logne de ser o ideal.
+está longe de ser o ideal.
 
 🤓
